@@ -1,6 +1,8 @@
-<h2 align="center">Hi 👋! My name is Farid and I'm a Computer Science Student</h2>
+<h2 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" /> My name is Farid and I'm a Computer Science Student</h2>
+
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farid-Karimi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="89" alt="stats graph"  />
@@ -8,13 +10,16 @@
   <img src="https://streak-stats.demolab.com?user=Farid-Karimi&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="89" alt="streak graph"  />
 </div>
 
+
 ###
 
-<br clear="both">
+
+<br clear="both" style="padding-bottom: 20px;">
 
 <img align="right" height="170" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
-###
+
+### 
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
@@ -60,13 +65,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
 
-###
+
+### 
+
 
 <br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/__farid_karimi__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cd486b&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
+  </a>
+  <a href="https://leetcode.com/farid_karimi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="27" alt="leetcode logo"  />
   </a>
   <a href="fkarimi8320@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
@@ -76,13 +86,9 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Farid-Karimi/Farid-Karimi/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 <br clear="both">
 
