@@ -1,13 +1,17 @@
-<h2 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" /> My name is Farid and I'm a Computer Science Student</h2>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <a href="https://git.io/typing-svg" style="width: 100%; max-width: 435px; padding-bottom: 0px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=2000&color=0d74e7&center=true&vCenter=true&width=435&lines=Hi+My+name+is+Farid" alt="Typing SVG" style="width: 89%;" />
+    </a>
+  </div>
+</div>
 
-
-###
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farid-Karimi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="105" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farid-Karimi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" height="105" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Farid-Karimi&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5" height="105" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farid-Karimi&theme=transparent" height="105" alt="profile details" />
 </div>
 
 
