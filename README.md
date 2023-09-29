@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farid-Karimi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farid-Karimi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" height="100" alt="languages graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farid-Karimi&theme=transparent" height="100" alt="profile details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Farid-Karimi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="95" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farid-Karimi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" height="95" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farid-Karimi&theme=transparent" height="95" alt="profile details" />
 </div>
 
 
