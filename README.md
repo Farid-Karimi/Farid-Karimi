@@ -92,7 +92,12 @@
   <a href="https://unsplash.com/@farid_karimi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=186&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="unsplash logo"  />
   </a>
+  </a>
+  <a href="https://farid-karimi.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=#9B1CFC" height="27" alt="githubpages logo"  />
+  </a>
 </div>
+
 
 
 ###
