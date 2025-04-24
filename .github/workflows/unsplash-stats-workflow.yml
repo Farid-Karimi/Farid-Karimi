@@ -13,10 +13,14 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    # Collect and update markdown with Unsplash stats
+    - name: Debugging Inputs
+      run: |
+        echo "ACCESS_KEY=${{ secrets.ACCESS_KEY }}"
+        echo "USERNAME=farid_karimi"
+
     - name: Gathering Unsplash stats
-      uses: gabrieluizramos/unsplash-stats-workflow@master
+      uses: gabrieluizramos/unsplash-stats-workflow@v1.0.0
       with:
-        username: farid_karimi # your unsplash username
-        ACCESS_KEY: ${{ secrets.ACCESS_KEY }} # your unsplash ACCESS_KEY
-        SECRET_KEY: ${{ secrets.SECRET_KEY }} # your unsplash SECRET_KEY
+        username: farid_karimi
+        ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
+        SECRET_KEY: ${{ secrets.SECRET_KEY }}
