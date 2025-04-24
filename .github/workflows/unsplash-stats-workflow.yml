@@ -16,6 +16,7 @@ jobs:
     - name: Debugging Inputs
       run: |
         echo "ACCESS_KEY=${{ secrets.ACCESS_KEY }}"
+        echo "SECRET_KEY=${{ secrets.SECRET_KEY }}"
         echo "USERNAME=farid_karimi"
 
     - name: Gathering Unsplash stats
