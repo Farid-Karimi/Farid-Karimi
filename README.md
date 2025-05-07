@@ -36,8 +36,6 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="20" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
@@ -45,8 +43,6 @@
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/gradle/02303A" height="30" alt="gradle logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
   <img width="20" />
@@ -58,9 +54,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"/>
   <img width="20" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
   <img width="20" />
