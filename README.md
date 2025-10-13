@@ -36,8 +36,6 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
